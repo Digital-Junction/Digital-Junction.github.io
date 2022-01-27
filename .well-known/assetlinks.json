@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rajeev.infogile.selfserveapp",
+      "sha256_cert_fingerprints": [
+        "CC:A8:D3:B3:FD:20:63:8A:E6:A4:2D:2B:2C:37:95:48:C2:7A:ED:A2:56:81:02:D0:95:12:5C:61:36:CB:2B:3F"
+      ]
+    }
+  }
+]
